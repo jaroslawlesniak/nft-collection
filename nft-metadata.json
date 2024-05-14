@@ -1,0 +1,9 @@
+{
+  "attributes" : [ {
+    "trait_type" : "Location",
+    "value" : "Kraków"
+  } ],
+  "description" : "PK Blockchain",
+  "image" : "https://gateway.pinata.cloud/ipfs/Qme4PvaVaw5tZ2AuLKLWVs5hhQ6EBDeKTxpgqB4TWxL1vr",
+  "name" : "PKB"
+}
